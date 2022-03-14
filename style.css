@@ -41,3 +41,10 @@ hr{
 .buffer{
 	height: 8rem;
 }
+
+center {
+color:white;
+}
+.copyright:active {
+color:yellow;
+}
